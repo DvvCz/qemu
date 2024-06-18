@@ -69,7 +69,7 @@ static struct {
  * 0 which counts as unknown (SMBIOS 3.1.0/Table 21). Set the
  * default value to 2000MHz as we did before.
  */
-#define DEFAULT_CPU_SPEED 2000
+#define DEFAULT_CPU_SPEED 2277
 
 static struct {
     uint16_t processor_family;
